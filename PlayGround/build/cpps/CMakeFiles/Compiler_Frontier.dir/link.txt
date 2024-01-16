@@ -1,0 +1,1 @@
+/usr/bin/g++ CMakeFiles/Compiler_Frontier.dir/cf.lex.cpp.o CMakeFiles/Compiler_Frontier.dir/cf.tab.cpp.o -o ../bin/Compiler_Frontier 
